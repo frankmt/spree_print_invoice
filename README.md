@@ -1,6 +1,8 @@
 SUMMARY
 =======
 
+*This is just a fork of spree/spree_print_invoice. There are no modifications apart from setting the version so I could push it to rubygems.
+
 This extension provides a "Print Invoice" button on the Admin Orders view screen which generates a PDF of the order details.
 
  
